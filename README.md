@@ -3,7 +3,7 @@
 ## 🎯 Úkol
 Cílem bylo vytvořit program, který pomocí **web scrapingu** získá a zpracuje data  
 z veřejné webové stránky. Jako cílová stránka byla zvolena  
-[Wikipedia – Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language)).
+[Tomáš Šmíd]([https://en.wikipedia.org/wiki/Python_(programming_language)](https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_%C5%A0m%C3%ADd)).
 
 ---
 
